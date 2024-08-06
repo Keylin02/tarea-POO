@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\sistema_bilioteca.exe.config
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\sistema_bilioteca.exe
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\sistema_bilioteca.pdb
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\obj\Debug\sistema_bilioteca.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\obj\Debug\sistema_bilioteca.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\obj\Debug\sistema_.EC3AD95F.Up2Date
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\obj\Debug\sistema_bilioteca.exe
+C:\Users\Usuario\Documents\Keylin compu\programación 2\sistema_bilioteca\obj\Debug\sistema_bilioteca.pdb

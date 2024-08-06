@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:revista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:ibiblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:bibliotecacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|c:\\users\\usuario\\documents\\keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D9A3B20-BA31-4874-8BAD-A3B1A6C8E896}|sistema_bilioteca.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bibliotecaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\bibliotecaContext.cs",
+              "RelativeDocumentMoniker": "bibliotecaContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\bibliotecaContext.cs",
+              "RelativeToolTip": "bibliotecaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:48:21.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ibiblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\Ibiblioteca.cs",
+              "RelativeDocumentMoniker": "Ibiblioteca.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\Ibiblioteca.cs",
+              "RelativeToolTip": "Ibiblioteca.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:39:45.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\biblioteca.cs",
+              "RelativeDocumentMoniker": "biblioteca.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\biblioteca.cs",
+              "RelativeToolTip": "biblioteca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:42:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAA8BAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:12:30.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "revista.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\revista.cs",
+              "RelativeDocumentMoniker": "revista.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\revista.cs",
+              "RelativeToolTip": "revista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:34:48.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "libro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\libro.cs",
+              "RelativeDocumentMoniker": "libro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\libro.cs",
+              "RelativeToolTip": "libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:15:27.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\DVD.cs",
+              "RelativeDocumentMoniker": "DVD.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\DVD.cs",
+              "RelativeToolTip": "DVD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T16:39:31.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\usuario.cs",
+              "RelativeDocumentMoniker": "usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\usuario.cs",
+              "RelativeToolTip": "usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:16:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\prestamo.cs",
+              "RelativeDocumentMoniker": "prestamo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\prestamo.cs",
+              "RelativeToolTip": "prestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:17:30.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Keylin compu\\programaci\u00F3n 2\\sistema_bilioteca\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-06T15:24:00.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
